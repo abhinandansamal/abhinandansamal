@@ -1,6 +1,6 @@
 ### Hi there! 👋
 
-I'm a passionate and motivated aspiring Data Scientist with over 6 years of IT experience, including 2 years specializing in Data Science within leading MNCs. Currently, I'm pursuing a Master's in Data Science, honing my skills in data-driven decision-making, predictive modeling, machine learning, and big data technologies.
+I'm a passionate and motivated aspiring Data Scientist with over 6 years of IT experience, including 1+ years specializing in Data Science within leading MNCs. Currently, I'm pursuing a Master's in Data Science, honing my skills in data-driven decision-making, predictive modeling, machine learning, and big data technologies.
 
 💼 My expertise spans across Python, Machine Learning model development, and working with various data technologies like MySQL, PostgreSQL, and AWS. I have had the privilege of collaborating with seasoned Senior Developers and Data Scientists, gaining invaluable knowledge and hands-on experience from both professional and personal projects.
 
