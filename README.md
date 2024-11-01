@@ -1,21 +1,44 @@
-### Hi there! 👋
+👋 Hi there! I'm currently a Master's student in Data Science, passionate about leveraging data to solve real-world problems and drive impactful insights. With a solid foundation in both academic knowledge and industry experience, I am excited to contribute to the ever-evolving field of data science and engineering.
 
-I'm a passionate and motivated aspiring Data Scientist with over 6 years of IT experience, including 1+ years specializing in Data Science within leading MNCs. Currently, I'm pursuing a Master's in Data Science, honing my skills in data-driven decision-making, predictive modeling, machine learning, and big data technologies.
+### 🔍 Who am I?
 
-💼 My expertise spans across Python, Machine Learning model development, and working with various data technologies like MySQL, PostgreSQL, and AWS. I have had the privilege of collaborating with seasoned Senior Developers and Data Scientists, gaining invaluable knowledge and hands-on experience from both professional and personal projects.
+* A Data Science and Data Engineering enthusiast with hands-on experience in the BFSI and Telecom sectors.
+* Previously worked as a Data Scientist, Data Engineer, and Business Intelligence Analyst, where I helped organizations optimize processes, create predictive models, and transform data into actionable insights.
 
-🔍 I am actively seeking a Data Science internship or a working student position where I can apply my skills and continue my journey of learning and innovation. I thrive on challenges and am always eager to explore new technologies.
+### 💡 What have I done?
 
-### Top Skills:
-- Python, MySQL, PostgreSQL
+* As a Data Engineer at IBM, I developed real-time processing pipelines using Kafka and KSQLDB, reducing data processing errors by **30%**.
+* At TCS, I created customer churn and recommendation models that boosted cross-selling by **15%** and up-selling by **9%** for a major bank.
+* Built scalable ETL pipelines, automated data workflows with PySpark, and deployed machine learning models on cloud platforms like AWS.
+
+### ⚙️ What do I know?
+
+### Technical Skills:
+- Python, SQL
 - Numpy, Pandas, Matplotlib, Seaborn
 - Scikit-Learn, Machine Learning, Deep Learning, Tensorflow
 - Statistical Analysis, Advanced Mathematics
 - Jupyter Notebook, Visual Studio Code, GIT
 - Stakeholder & Project Management
-- Tableau, Docker, Kubernetes, AWS
+- Tableau, Microsoft Power BI, Docker, Kubernetes, AWS
+
+### Soft Skills: 
+- Strong communicator
+- Collaborator
+- Problem solver
+- Always eager to learn and share knowledge.
+
+🚀 **My Approach**: I believe in using data as a driver of meaningful change. Whether it’s working on ETL pipelines, implementing advanced machine learning algorithms, or optimizing data processing workflows, I’m committed to delivering robust, scalable, and impactful data solutions.
+
+🌱 What am I working on? Currently expanding my knowledge in AI applications for Industry 4.0 and contributing to open-source projects focused on data science and machine learning.
+
+Feel free to explore my repositories, fork, contribute, or reach out for collaboration! Let's use data to make the world smarter. 🌍✨
 
 ### Interests & Hobbies:
-🏛 Architecture | 📖 Reading | 🎶 Music | 🍳 Cooking | ✈️ Travel | 📸 Photography | ⚽️ Sports
+🏛 Architecture | 📖 Reading | ✍🏻 Writing Medium Articles | 🎶 Music | 🍳 Cooking | ✈️ Travel | 📸 Photography | ⚽️ Sports
 
-Let's connect and create something amazing with data! 🚀
+
+
+📫 Connect with me: [LinkedIn](https://www.linkedin.com/in/abhinandan-samal/)
+
+📖 Read my articles: [Medium](https://medium.com/@abhinandan198)
