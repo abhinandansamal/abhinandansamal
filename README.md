@@ -3,7 +3,7 @@
 ### 🔍 Who am I?
 
 * A Data Science and Data Engineering enthusiast with hands-on experience in the BFSI and Telecom sectors.
-* Previously worked as a Data Scientist, Data Engineer, and Business Intelligence Analyst, where I helped organizations optimize processes, create predictive models, and transform data into actionable insights.
+* Previously worked as a IT Analyst, Data Engineer, and Business Intelligence Analyst, where I helped organizations optimize processes, create predictive models, and transform data into actionable insights.
 
 ### 💡 What have I done?
 
