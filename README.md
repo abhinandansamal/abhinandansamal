@@ -15,12 +15,13 @@
 
 ### Technical Skills:
 - Python, SQL
-- Numpy, Pandas, Matplotlib, Seaborn
-- Scikit-Learn, Machine Learning, Deep Learning, Tensorflow
-- Statistical Analysis, Advanced Mathematics
-- Jupyter Notebook, Visual Studio Code, GIT
+- Vector Databases (Chroma, Weaviate, Pinecone)
+- Statistics, Advanced Mathematics, Machine Learning (ML), Deep Learning (DL), Natural Language Processing (NLP), Generative AI
+- AWS (S3, EC2, Lambda, Bedrock, Redshift, SageMaker)
+- Hadoop, PySpark, Docker, Kubernetes, Airflow, Tableau
+- Numpy, Pandas, Matplotlib, Seaborn, Scikit-Learn, Tensorflow, Keras, PyTorch, LangChain
+- Jupyter Notebook, Visual Studio Code, Git, GitHub Codespaces
 - Stakeholder & Project Management
-- Tableau, Microsoft Power BI, Docker, Kubernetes, AWS
 
 ### Soft Skills: 
 - Strong communicator
@@ -29,8 +30,6 @@
 - Always eager to learn and share knowledge.
 
 🚀 **My Approach**: I believe in using data as a driver of meaningful change. Whether it’s working on ETL pipelines, implementing advanced machine learning algorithms, or optimizing data processing workflows, I’m committed to delivering robust, scalable, and impactful data solutions.
-
-🌱 What am I working on? Currently expanding my knowledge in AI applications for Industry 4.0 and contributing to open-source projects focused on data science and machine learning.
 
 Feel free to explore my repositories, fork, contribute, or reach out for collaboration! Let's use data to make the world smarter. 🌍✨
 
