@@ -1,43 +1,57 @@
-👋 Hi there! I'm currently a Master's student in Data Science, passionate about leveraging data to solve real-world problems and drive impactful insights. With a solid foundation in both academic knowledge and industry experience, I am excited to contribute to the ever-evolving field of data science and engineering.
+# Hi there, I'm Abhinandan Samal! 👋
 
-### 🔍 Who am I?
+### 🚀 AI & Machine Learning Engineer | Data Scientist
+**📍 Based in Berlin, Germany** | **visa: Blue Card Eligible**
 
-* A Data Science and Data Engineering enthusiast with hands-on experience in the BFSI and Telecom sectors.
-* Previously worked as a IT Analyst, Data Engineer, and Business Intelligence Analyst, where I helped organizations optimize processes, create predictive models, and transform data into actionable insights.
+I bridge the gap between **robust Data Engineering** (6+ years exp. at IBM/TCS) and **cutting-edge Generative AI** (M.Sc. Research). My passion lies in building scalable, production-grade AI systems—from real-time Kafka pipelines to fine-tuned LLMs.
 
-### 💡 What have I done?
+---
 
-* As a Data Engineer at IBM, I developed real-time processing pipelines using Kafka and KSQLDB, reducing data processing errors by **30%**.
-* At TCS, I created customer churn and recommendation models that boosted cross-selling by **15%** and up-selling by **9%** for a major bank.
-* Built scalable ETL pipelines, automated data workflows with PySpark, and deployed machine learning models on cloud platforms like AWS.
+### 🛠️ Tech Stack & Arsenal
 
-### ⚙️ What do I know?
+| Domain | Technologies |
+| :--- | :--- |
+| **Generative AI & NLP** | `Transformers (Hugging Face)` `PEFT / LoRA` `LangChain` `RAG` `OpenAI API` `Google Gemini` |
+| **Machine Learning** | `PyTorch` `Scikit-learn` `XGBoost` `LightGBM` `MLFlow` |
+| **Cloud & MLOps** | `AWS (EMR, S3)` `Azure DevOps` `Docker` `Kubernetes` `Terraform` |
+| **Data Engineering** | `Apache Kafka` `KSQL` `PySpark` `Airflow` `SQL/NoSQL` |
 
-### Technical Skills:
-- Python, SQL
-- Vector Databases (Chroma, Weaviate, Pinecone)
-- Statistics, Advanced Mathematics, Machine Learning (ML), Deep Learning (DL), Natural Language Processing (NLP), Generative AI
-- AWS (S3, EC2, Lambda, Bedrock, Redshift, SageMaker)
-- Hadoop, PySpark, Docker, Kubernetes, Airflow, Tableau
-- Numpy, Pandas, Matplotlib, Seaborn, Scikit-Learn, Tensorflow, Keras, PyTorch, LangChain
-- Jupyter Notebook, Visual Studio Code, Git, GitHub Codespaces
-- Stakeholder & Project Management
+---
 
-### Soft Skills: 
-- Strong communicator
-- Collaborator
-- Problem solver
-- Always eager to learn and share knowledge.
+### 🌟 Featured Repositories
 
-🚀 **My Approach**: I believe in using data as a driver of meaningful change. Whether it’s working on ETL pipelines, implementing advanced machine learning algorithms, or optimizing data processing workflows, I’m committed to delivering robust, scalable, and impactful data solutions.
+#### 🧠 [Master Thesis: Fine-Tuning NLLB for Low-Resource Translation](https://github.com/abhinandansamal/nllb_fine_tuned_odia_german_translator)
+*Research on optimizing Multilingual Transformers using **PEFT (LoRA)** vs. Full Fine-Tuning.*
+* **Tech:** PyTorch, Hugging Face, NLLB-200, BLEU/TER Metrics.
+* **Result:** Demonstrated that LoRA achieved superior fluency & morphological precision (𝗕𝗟𝗘𝗨 𝟐𝟔.𝟑𝟑, 𝗧𝗘𝗥 𝟕𝟑.𝟒𝟐) and efficiency (training only 𝟎.𝟒% of parameters) whereas FFT showed a slight edge in morphological precision (𝗰𝗵𝗿𝗙 𝟒𝟖.𝟓𝟒) for the challenging German-to-Odia direction. For the Odia-to-German direction, LoRA proved to be the superior strategy across all metrics (𝗕𝗟𝗘𝗨 𝟕𝟒.𝟔𝟐, 𝗰𝗵𝗿𝗙 𝟖𝟐.𝟑𝟑, 𝗧𝗘𝗥 𝟑𝟗.𝟑𝟗).
 
-Feel free to explore my repositories, fork, contribute, or reach out for collaboration! Let's use data to make the world smarter. 🌍✨
+#### 🤖 [AI Research Agent & Evaluation Pipeline](https://github.com/abhinandansamal/AI_Research_Agent_and_Evaluation_Pipeline)
+*An Agentic AI tool that autonomously retrieves, analyzes, and synthesizes research papers.*
+* **Tech:** Google Gemini, Vector Search, MLOps (ROUGE Metrics).
+* **Highlights:** Implemented automated drift monitoring and agentic retrieval workflows.
 
-### Interests & Hobbies:
-🏛 Architecture | 📖 Reading | ✍🏻 Writing Medium Articles | 🎶 Music | 🍳 Cooking | ✈️ Travel | 📸 Photography | ⚽️ Sports
+#### 📚 [Enterprise RAG Knowledge System](https://github.com/abhinandansamal/Enterprise_RAG_Knowledge_System)
+*Full-stack GenAI application for querying unstructured technical documents.*
+* **Tech:** LangChain, OpenAI, ChromaDB, Flask, AWS S3.
+* **Highlights:** Features context-aware memory buffers for multi-turn reasoning.
 
+#### 📈 [End-to-End Sales Forecasting Pipeline](https://github.com/abhinandansamal/BigMart_Sales_Prediction)
+*Robust Data Science lifecycle project from warehousing to ensemble modeling.*
+* **Tech:** Python, SQL, Redshift, Stacking/Blending Regressors.
 
+---
 
-📫 Connect with me: [LinkedIn](https://www.linkedin.com/in/abhinandan-samal/)
+### 💼 Professional Experience (Highlights)
 
-📖 Read my articles: [Medium](https://medium.com/@abhinandan198)
+* **Cloud Data Engineer @ IBM (2022-2023):** Architected real-time data flywheels using **Kafka/KSQL** and **Terraform** on Azure.
+* **ML Engineer / Data Scientist @ TCS (2020-2022):** Developed & deployed Churn Prediction models on **Kubernetes** and **AWS**, automating MLOps pipelines. Developed a hybrid system (Collaborative & Content-based filtering) using CMFRec to detect financial events and recommend offers.
+
+---
+
+### 📫 Connect with Me
+
+* [**LinkedIn**](https://www.linkedin.com/in/abhinandan-samal/) (Let's connect!)
+* [**HuggingFace**](https://huggingface.co/abhinandansamal)
+* [**Email**](mailto:abhinandan198@gmail.com)
+
+![Abhinandan's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhinandansamal&show_icons=true&theme=radical)
