@@ -52,6 +52,7 @@ I bridge the gap between **robust Data Engineering** (6+ years exp. at IBM/TCS) 
 
 * [**LinkedIn**](https://www.linkedin.com/in/abhinandan-samal/) (Let's connect!)
 * [**HuggingFace**](https://huggingface.co/abhinandansamal)
+* [**Kaggle**](https://www.kaggle.com/samalabhinandan)
 * [**Email**](mailto:abhinandan198@gmail.com)
 
 ![Abhinandan's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhinandansamal&show_icons=true&theme=radical)
