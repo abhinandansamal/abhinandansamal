@@ -1,7 +1,7 @@
 # Hi there, I'm Abhinandan Samal! 👋
 
 ### 🚀 AI & Machine Learning Engineer | Data Scientist
-**📍 Based in Berlin, Germany** | **visa: Blue Card Eligible**
+**📍 Based in Bonn, Germany** | **visa: Blue Card Eligible**
 
 I bridge the gap between **robust Data Engineering** (6+ years exp. at IBM/TCS) and **cutting-edge Generative AI** (M.Sc. Research). My passion lies in building scalable, production-grade AI systems—from real-time Kafka pipelines to fine-tuned LLMs.
 
