@@ -1,7 +1,7 @@
 # Hi there, I'm Abhinandan Samal! 👋
 
 ### 🚀 AI & Machine Learning Engineer | Data Scientist
-**📍 Based in Berlin, Germany** | **visa: Blue Card Eligible**
+**📍 Based in Berlin, Germany**
 
 I bridge the gap between **robust Data Engineering** (6+ years exp. at IBM/TCS) and **cutting-edge Generative AI** (M.Sc. Research). My passion lies in building scalable, production-grade AI systems—from real-time Kafka pipelines to fine-tuned LLMs.
 
@@ -13,7 +13,7 @@ I bridge the gap between **robust Data Engineering** (6+ years exp. at IBM/TCS) 
 | :--- | :--- |
 | **Generative AI & NLP** | `Transformers (Hugging Face)` `PEFT / LoRA` `LangChain` `RAG` `OpenAI API` `Google Gemini` |
 | **Machine Learning** | `PyTorch` `Scikit-learn` `XGBoost` `LightGBM` `MLFlow` |
-| **Cloud & MLOps** | `AWS (EMR, S3)` `Azure DevOps` `Docker` `Kubernetes` `Terraform` |
+| **Cloud & MLOps** | `AWS (EMR, S3)` `GCP` `Docker` `Kubernetes` `Terraform` |
 | **Data Engineering** | `Apache Kafka` `KSQL` `PySpark` `Airflow` `SQL/NoSQL` |
 
 ---
