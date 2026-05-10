@@ -1,6 +1,6 @@
 # Hi there, I'm Abhinandan Samal! 👋
 
-### 🚀 AI & Machine Learning Engineer | Data Scientist
+### 🚀 AI & Machine Learning Engineer | Cloud Data Engineer
 **📍 Based in Berlin, Germany**
 
 I bridge the gap between **robust Data Engineering** (6+ years exp. at IBM/TCS) and **cutting-edge Generative AI** (M.Sc. Research). My passion lies in building scalable, production-grade AI systems—from real-time Kafka pipelines to fine-tuned LLMs.
@@ -11,9 +11,10 @@ I bridge the gap between **robust Data Engineering** (6+ years exp. at IBM/TCS) 
 
 | Domain | Technologies |
 | :--- | :--- |
-| **Generative AI & NLP** | `Transformers (Hugging Face)` `PEFT / LoRA` `LangChain` `RAG` `OpenAI API` `Google Gemini` |
+| **Programming** | `Python 3` `SQL` `Flask` `FastAPI` |
+| **AI & LLM** | `OpenAI API` `Gemini API` `Claude API` `LangChain` `LangGraph` `ChromaDB` `Pinecone` `RAG` `PEFT / QLoRA` `Function Calling` `Tool Calling`|
 | **Machine Learning** | `PyTorch` `Scikit-learn` `XGBoost` `LightGBM` `MLFlow` |
-| **Cloud & MLOps** | `AWS (EMR, S3)` `GCP` `Docker` `Kubernetes` `Terraform` |
+| **Cloud & MLOps** | `AWS (EMR, S3)` `AWS` `Docker` `Kubernetes` `Terraform` |
 | **Data Engineering** | `Apache Kafka` `KSQL` `PySpark` `Airflow` `SQL/NoSQL` |
 
 ---
@@ -44,7 +45,7 @@ I bridge the gap between **robust Data Engineering** (6+ years exp. at IBM/TCS) 
 ### 💼 Professional Experience (Highlights)
 
 * **Cloud Data Engineer @ IBM (2022-2023):** Architected real-time data flywheels using **Kafka/KSQL** and **Terraform** on Azure.
-* **ML Engineer / Data Scientist @ TCS (2020-2022):** Developed & deployed Churn Prediction models on **Kubernetes** and **AWS**, automating MLOps pipelines. Developed a hybrid system (Collaborative & Content-based filtering) using CMFRec to detect financial events and recommend offers.
+* **ML Engineer @ TCS (2020-2022):** Developed & deployed Churn Prediction models on **Kubernetes** and **AWS**, automating MLOps pipelines. Developed a hybrid system (Collaborative & Content-based filtering) using CMFRec to detect financial events and recommend offers.
 
 ---
 
