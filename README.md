@@ -23,8 +23,8 @@ I bridge the gap between **robust Data Engineering** (6+ years exp. at IBM/TCS) 
 
 #### 🧠 [Master Thesis: Fine-Tuning NLLB for Low-Resource Translation](https://github.com/abhinandansamal/nllb_fine_tuned_odia_german_translator)
 *Research on optimizing Multilingual Transformers using **PEFT (LoRA)** vs. Full Fine-Tuning.*
-* **Tech:** PyTorch, Hugging Face, NLLB-200, BLEU/TER Metrics.
-* **Result:** Demonstrated that LoRA achieved superior fluency & morphological precision (𝗕𝗟𝗘𝗨 𝟐𝟔.𝟑𝟑, 𝗧𝗘𝗥 𝟕𝟑.𝟒𝟐) and efficiency (training only 𝟎.𝟒% of parameters) whereas FFT showed a slight edge in morphological precision (𝗰𝗵𝗿𝗙 𝟒𝟖.𝟓𝟒) for the challenging German-to-Odia direction. For the Odia-to-German direction, LoRA proved to be the superior strategy across all metrics (𝗕𝗟𝗘𝗨 𝟕𝟒.𝟔𝟐, 𝗰𝗵𝗿𝗙 𝟖𝟐.𝟑𝟑, 𝗧𝗘𝗥 𝟑𝟗.𝟑𝟗).
+* **Tech:** PyTorch, Hugging Face, NLLB-200, BLEU/chrF++/TER Metrics.
+* **Result:** Demonstrated that LoRA achieved superior fluency, morphological precision and efficiency (**𝗕𝗟𝗘𝗨** 17.30, **𝗧𝗘𝗥** 68.74, **chrF++** 68.73) by training only 10% of parameters. For the Odia-to-German direction, LoRA proved to be the superior strategy across all metrics as well (**𝗕𝗟𝗘𝗨** 29.68, **𝗰𝗵𝗿𝗙++** 55.81, **𝗧𝗘𝗥** 61.61).
 
 #### 🤖 [AI Research Agent & Evaluation Pipeline](https://github.com/abhinandansamal/AI_Research_Agent_and_Evaluation_Pipeline)
 *An Agentic AI tool that autonomously retrieves, analyzes, and synthesizes research papers.*
