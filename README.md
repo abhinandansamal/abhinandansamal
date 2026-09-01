@@ -21,10 +21,10 @@ I bridge the gap between **robust Data Engineering** (6+ years exp. at IBM/TCS) 
 
 ### 🌟 Featured Repositories
 
-#### 🧠 [Master Thesis: Fine-Tuning NLLB for Low-Resource Translation](https://github.com/abhinandansamal/nllb_fine_tuned_odia_german_translator)
-*Research on optimizing Multilingual Transformers using **PEFT (LoRA)** vs. Full Fine-Tuning.*
+#### 🧠 [Fine-Tuning NLLB for Low-Resource Translation](https://github.com/abhinandansamal/odia-german-bidirectional-neural-machine-translation)
+*Research on optimizing Multilingual Transformers using **PEFT (QLoRA)** vs. Full Fine-Tuning. vs. SOTA LLMs*
 * **Tech:** PyTorch, Hugging Face, NLLB-200, BLEU/chrF++/TER Metrics.
-* **Result:** Demonstrated that LoRA achieved superior fluency, morphological precision and efficiency (**𝗕𝗟𝗘𝗨** 17.30, **𝗧𝗘𝗥** 68.74, **chrF++** 68.73) by training only 10% of parameters. For the Odia-to-German direction, LoRA proved to be the superior strategy across all metrics as well (**𝗕𝗟𝗘𝗨** 29.68, **𝗰𝗵𝗿𝗙++** 55.81, **𝗧𝗘𝗥** 61.61).
+* **Result:** Conducted a comprehensive LoRA/QLoRA fine-tuning and ablation study using Optuna/TPE Bayesian optimisation, achieving reproducible configurations with 2.8% seed variance; developed a statistically rigorous 4-metric evaluation suite (BLEU, chrF++, TER, and COMET) and benchmarked the fine-tuned 600M-parameter model against GPT-5, Gemini 2.5 Pro, and Claude Sonnet 4.5, outperforming them on BLEU and chrF++ at substantially lower inference cost, while reducing trainable parameters to 10% and checkpoint storage by 87%, contributing to two accepted peer-reviewed papers.
 
 #### 🤖 [AI Research Agent & Evaluation Pipeline](https://github.com/abhinandansamal/AI_Research_Agent_and_Evaluation_Pipeline)
 *An Agentic AI tool that autonomously retrieves, analyzes, and synthesizes research papers.*
